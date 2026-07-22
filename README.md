@@ -119,7 +119,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 # Certifications
 ---
 ## Data Scientist Course
-- Issued by: Digital Economy Promotion Agency (depa) & Daydev Co., Ltd. | Date: November 2025 <br>
+- Issued by: Digital Economy Promotion Agency (depa) & Daydev Co., Ltd. <br> Date: November 2025 <br>
   *Key Learnings* <br>
   * Efficient Programming & Code Design, Advanced Statistical & Regression Analysis, Advanced Database Systems, and Data Governance & Security.<br>
 
@@ -128,7 +128,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 </p>
 
 ## Essential SQL for Everyone
-- Issued by: BorntoDev Co., Ltd. | Date: July 2026
+- Issued by: BorntoDev Co., Ltd. <br> Date: July 2026
 
 <p align="center">
   <img src="pic/borntodev-certificate.png" alt="SQLLEARN" width="100%">
@@ -138,7 +138,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 # Trainings & Workshops
 ---
 ## NSO DATA CAMP: Data Near You <br>
-- Organized by: National Statistical Office (NSO) & ARIT | Date: July 18-20, 2025 <br>
+- Organized by: National Statistical Office (NSO) & ARIT <br> Date: July 18-20, 2025 <br>
   *Key Learnings:* <br>
   * Learned to access and utilize the national statistical database (GD Catalog) for data analysis and real-world case studies.<br>
   * Applied data collaboration tools, Generative AI, and Python for data management, visualization, and interpretation.<br>
