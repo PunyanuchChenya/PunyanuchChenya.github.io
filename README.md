@@ -76,4 +76,19 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 - Participated in a team research project comparing dimensionality reduction techniques for fake news classification using Python.
 - Developed Python code for ISOMAP and Laplacian Eigenmaps.
 - Evaluated model performance using Accuracy, Precision, Recall, F1-score, and training time.
-- The results showed that dimensionality reduction reduced model training time by more than 50% while maintaining similar classification performance.
+- The results showed that dimensionality reduction reduced model training time by more than 50% while maintaining similar classification performance.<br>
+
+---
+## The Impact of High Blood Pressure on Heart Failure Events: A Propensity Score Matching Analysis
+
+[![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMpaper.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMPoster.pdf)
+
+- Applied Propensity Score Matching (PSM) using Stata to analyze more than 25,000 patient records.
+- Evaluated the impact of high blood pressure by comparing matched treatment and control groups.
+- Found that patients with high blood pressure had a 4.21% higher risk of heart failure.
+
+<p align="center">
+  <img src="pdf/PSMposter.pdf" alt="PSMpoter" width="100%">
+</p>
+
