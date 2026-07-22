@@ -102,13 +102,13 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 # Technical Certifications
 ---
 ## IT Specialist - Data Analytics 
-- Issued by: Certiport | Score: 850
+- Issued by: Certiport | Score: 922
 [![PDF](https://img.shields.io/badge/PDF-Score-blue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Data_Analytics_score.pdf)
 ---
 ## Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)<br>
-- Issued by: Microsoft | Score: 922
+- Issued by: Microsoft | Score: 850
 
-[![PDF](https://img.shields.io/badge/PDF-Score-darkgreen?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Data_Analytics_score.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Score-darkgreen?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Microsoft_Excel_Office_2019_score.pdf)
 
 <p align="center">
   <img src="pic/Excel_2019_Associate_cer.jpg" alt="Excel Associate" width="100%">
