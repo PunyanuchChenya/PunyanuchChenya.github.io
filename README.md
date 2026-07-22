@@ -36,6 +36,10 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   <img src="pic/month.jpg" alt="month">
 </p>
 <br>
+<p align="center">
+  <img src="pic/powerpoint.jpg" alt="powerpoint">
+</p>
+<br>
 
 - **Medicine Usage Trend Analysis**<br>
   *Objective*<br>
