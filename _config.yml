@@ -1,3 +1,9 @@
+<style>
+  header h1 {
+    font-size: 24px !important;
+  }
+</style>
+
 title: <p align="center"> Punyanuch Chenyawanich </p>
 
 logo: "/pic/MYSELF.jpg"
