@@ -83,7 +83,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 
 [![PDF](https://img.shields.io/badge/PDF-Paper-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMpaper.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Poster-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMposter.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Poster-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSM.do)<br>
+[![PDF](https://img.shields.io/badge/do-Code-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSM.do)<br>
 - Applied Propensity Score Matching (PSM) using Stata to analyze more than 25,000 patient records.
 - Evaluated the impact of high blood pressure by comparing matched treatment and control groups.
 - Found that patients with high blood pressure had a 4.21% higher risk of heart failure.
