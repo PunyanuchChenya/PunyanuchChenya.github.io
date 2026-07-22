@@ -89,6 +89,6 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 - Found that patients with high blood pressure had a 4.21% higher risk of heart failure.
 
 <p align="center">
-  <img src="PDF/PSMPoster.png" alt="PSMposter" width="100%">
+  <img src="pic/PSMPoster.png" alt="PSMposter" width="100%">
 </p>
 
