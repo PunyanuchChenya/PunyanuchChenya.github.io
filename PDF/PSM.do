@@ -30,8 +30,6 @@ pstest age anaemia creatinine_phosphokinase diabetes ejection_fraction platelets
 psgraph
 
 
-
-
 * เพิ่มออปชัน caliper(0.05) และ common
 psmatch2 high_blood_pressure age anaemia creatinine_phosphokinase diabetes ejection_fraction platelets serum_creatinine serum_sodium sex smoking, outcome(death_event) logit 
 
