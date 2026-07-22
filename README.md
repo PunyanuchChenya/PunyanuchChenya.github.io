@@ -69,7 +69,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 # Academic Projects
 ---
-##On the Comparison of Dimensionality Reduction Techniques for News Classification<br>
+## On the Comparison of Dimensionality Reduction Techniques for News Classification
+<br>
 [![PDF](https://img.shields.io/badge/PDF-Result%20Report-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/Paper.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/Paper.pdf)<br>
 - Participated in a team research project comparing dimensionality reduction techniques for fake news classification using Python.
