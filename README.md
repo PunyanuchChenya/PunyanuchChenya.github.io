@@ -114,6 +114,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 <p align="center">
   <img src="pic/Excel_2019_Associate_cer.jpg" alt="Excel Associate" width="100%">
 </p>
+
 ---
 # Certifications
 ---
@@ -125,7 +126,6 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   <img src="pic/data_science.jpg" alt="data science" width="100%">
 </p>
 
----
 ## Essential SQL for Everyone
 - Issued by: BorntoDev Co., Ltd. | Date: July 2026
 
