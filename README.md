@@ -71,8 +71,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## On the Comparison of Dimensionality Reduction Techniques for News Classification
 
-[![PDF](https://img.shields.io/badge/PDF-Result%20Report-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/Paper.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/Paper.pdf)<br>
+[![PDF](https://img.shields.io/badge/PDF-Result%20Report-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Paper.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Paper.pdf)<br>
 - Participated in a team research project comparing dimensionality reduction techniques for fake news classification using Python.
 - Developed Python code for ISOMAP and Laplacian Eigenmaps.
 - Evaluated model performance using Accuracy, Precision, Recall, F1-score, and training time.
@@ -81,8 +81,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## The Impact of High Blood Pressure on Heart Failure Events: A Propensity Score Matching Analysis
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMpaper.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMposter.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMpaper.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMposter.pdf)
 
 - Applied Propensity Score Matching (PSM) using Stata to analyze more than 25,000 patient records.
 - Evaluated the impact of high blood pressure by comparing matched treatment and control groups.
