@@ -24,12 +24,15 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 <p align="center">
   <img src="pic/VBA.png" alt="vba">
 </p>
-
+---
 - **Monthly Public Health Reporting**<br>
   *Objective*<br>
   Prepare monthly public health reports using data from the organization's website.<br>
   *Description*<br>
   I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.
-
+  
+<p align="center">
+  <img src="pic/month.jpg" alt="month">
+</p>
 ---
 
