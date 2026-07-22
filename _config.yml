@@ -1,4 +1,4 @@
-title:  Punyanuch Chenyawanich 
+title:  <p align="center" style="font-size = 16px;"> Punyanuch Chenyawanich </p>
 
 logo: "/pic/MYSELF.jpg"
 
@@ -13,8 +13,4 @@ description: |
     I am a recent Statistics graduate from the Faculty of Science with experience in applying statistical methods for data analysis and hypothesis testing.
 theme: jekyll-theme-minimal
 
-<style>
-  header h1 {
-    font-size: 22px !important;
-  }
-</style>
+
