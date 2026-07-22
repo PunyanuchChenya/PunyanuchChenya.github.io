@@ -37,7 +37,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 </p>
 <br>
 <p align="center">
-  <img src="pic/powerpoint.jpg" alt="powerpoint">
+  <img src="pic/powerpoint.png" alt="powerpoint">
 </p>
 <br>
 
