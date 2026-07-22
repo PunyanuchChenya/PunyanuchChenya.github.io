@@ -82,13 +82,13 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ## The Impact of High Blood Pressure on Heart Failure Events: A Propensity Score Matching Analysis
 
 [![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMpaper.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMPoster.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://Punyanuch.github.io/PDF/PSMposter.pdf)
 
 - Applied Propensity Score Matching (PSM) using Stata to analyze more than 25,000 patient records.
 - Evaluated the impact of high blood pressure by comparing matched treatment and control groups.
 - Found that patients with high blood pressure had a 4.21% higher risk of heart failure.
 
 <p align="center">
-  <img src="PDF/PSMposter.pdf" alt="PSMposter" width="100%">
+  <img src="PDF/PSMPoster.png" alt="PSMposter" width="100%">
 </p>
 
