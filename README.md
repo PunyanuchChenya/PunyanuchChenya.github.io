@@ -130,7 +130,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 - Issued by: BorntoDev Co., Ltd. | Date: July 2026
 
 <p align="center">
-  <img src="pic/Excel_2019_Associate_cer.jpg" alt="SQLLEARN" width="100%">
+  <img src="pic/borntodev-certificate.png" alt="SQLLEARN" width="100%">
 </p>
 
 ---
@@ -138,14 +138,15 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## NSO DATA CAMP: Data Near You <br>
 - Organized by: National Statistical Office (NSO) & ARIT | Date: July 18-20, 2025 <br>
-- Key Learnings:<br>
+  *Key Learnings:* <br>
  - Learned to access and utilize the national statistical database (GD Catalog) for data analysis and real-world case studies.<br>
  - Applied data collaboration tools, Generative AI, and Python for data management, visualization, and interpretation.<br>
  - Gained essential knowledge in data security, covering cybersecurity, data privacy laws, and data ethics.<br>
  - Participated in the "Data Strategy for Future City" workshop, exploring data applications for financial planning and business innovation.<br>
 
 <p align="center">
-  <img src="pic/camp1.jpg" alt="camp1" width="100%"> <img src="pic/camp2.jpg" alt="camp2" width="100%">
+  <img src="pic/camp1.jpg" alt="camp1" width="100%"> 
+  <img src="pic/camp2.jpg" alt="camp2" width="100%">
 </p>
 
 ---
