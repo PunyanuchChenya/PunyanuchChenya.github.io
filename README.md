@@ -120,7 +120,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## Data Scientist Course
 - Issued by: Digital Economy Promotion Agency (depa) & Daydev Co., Ltd. | Date: November 2025 <br>
-  *Key Skills Acquired* <br>
+  *Key Learnings* <br>
   * Efficient Programming & Code Design, Advanced Statistical & Regression Analysis, Advanced Database Systems, and Data Governance & Security.<br>
 
 <p align="center">
