@@ -73,8 +73,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 
 [![PDF](https://img.shields.io/badge/PDF-Result%20Report-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Report.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Paper.pdf)
-[![PDF](https://img.shields.io/badge/colab-Laplacian%20Code-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)]([Project_code_Lapacian.ipynb](https://github.com/PunyanuchChenya/AcademicoProject/blob/main/Project_code_Lapacian.ipynb))
-[![PDF](https://img.shields.io/badge/colab-ISOMAP%20Code-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)]([Project_code_ISOMAP.ipynb](https://github.com/PunyanuchChenya/AcademicoProject/blob/main/Project_code_ISOMAP.ipynb))<br>
+[![Code](https://img.shields.io/badge/colab-Laplacian%20Code-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/AcademicoProject/blob/main/Project_code_Lapacian.ipynb)
+[![Code](https://img.shields.io/badge/colab-ISOMAP%20Code-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/AcademicoProject/blob/main/Project_code_ISOMAP.ipynb)<br>
 - Participated in a team research project comparing dimensionality reduction techniques for fake news classification using Python.
 - Developed Python code for ISOMAP and Laplacian Eigenmaps.
 - Evaluated model performance using Accuracy, Precision, Recall, F1-score, and training time.
