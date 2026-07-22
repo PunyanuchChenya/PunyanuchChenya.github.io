@@ -19,7 +19,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Objective*<br>
   Create hyperlinks in an Excel worksheet for healthcare facility websites.<br>
   *Description*<br>
-  I was assigned to create hyperlinks for healthcare facility websites in an Excel worksheet containing information for more than 10,000 healthcare facilities. Since manually creating hyperlinks for each record would have been repetitive and time-consuming, I chose to develop a VBA macro to automate the process. After running the macro, hyperlinks were automatically generated for all records, allowing users to access each healthcare facility's website directly from Excel with a single click. This reduced repetitive work and improved the efficiency of accessing healthcare facility information.
+  * I was assigned to create hyperlinks for healthcare facility websites in an Excel worksheet containing information for more than 10,000 healthcare facilities. Since manually creating hyperlinks for each record would have been repetitive and time-consuming, I chose to develop a VBA macro to automate the process. After running the macro, hyperlinks were automatically generated for all records, allowing users to access each healthcare facility's website directly from Excel with a single click. This reduced repetitive work and improved the efficiency of accessing healthcare facility information.
 <br>
 <div align="center">
   <img src="pic/VBA.png" alt="vba" width="100%"><br>
@@ -31,7 +31,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Objective*<br>
   Prepare monthly public health reports using data from the organization's website.<br>
   *Description*<br>
-  I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.
+  * I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.
 <br>
 <div align="center">
   <img src="pic/month.jpg" alt="month" width="100%"><br>
@@ -48,7 +48,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Objective*<br>
   Analyze medicine usage data to identify trends and support monthly public health reporting.<br>
   *Description*<br>
-  I was assigned to analyze medicine usage data using statistical methods. To identify relationships and trends within the data, I performed correlation and regression analyses. The analysis results were summarized and used to support monthly public health reports, providing information for data-driven reporting.
+  * I was assigned to analyze medicine usage data using statistical methods. To identify relationships and trends within the data, I performed correlation and regression analyses. The analysis results were summarized and used to support monthly public health reports, providing information for data-driven reporting.
 <br>
  <div align="center">
   <img src="pic/regress1.png" alt="regress1" width="100%"><br>
@@ -120,8 +120,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## Data Scientist Course
 - Issued by: Digital Economy Promotion Agency (depa) & Daydev Co., Ltd. | Date: November 2025 <br>
- *Key Skills Acquired:*
-* Efficient Programming & Code Design, Advanced Statistical & Regression Analysis, Advanced Database Systems, and Data Governance & Security.<br>
+ *Key Skills Acquired:* <br>
+ * Efficient Programming & Code Design, Advanced Statistical & Regression Analysis, Advanced Database Systems, and Data Governance & Security.<br>
 
 <p align="center">
   <img src="pic/data_science.jpg" alt="data science" width="100%">
