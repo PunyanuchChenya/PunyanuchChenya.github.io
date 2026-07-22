@@ -36,6 +36,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   <img src="pic/month.jpg" alt="month">
 </p>
 <br>
+
 - **Medicine Usage Trend Analysis**<br>
   *Objective*<br>
   Analyze medicine usage data to identify trends and support monthly public health reporting.<br>
