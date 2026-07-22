@@ -81,8 +81,9 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## The Impact of High Blood Pressure on Heart Failure Events: A Propensity Score Matching Analysis
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMpaper.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Poster-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMposter.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Paper-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMpaper.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Poster-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/PSMposter.pdf)
+
 
 - Applied Propensity Score Matching (PSM) using Stata to analyze more than 25,000 patient records.
 - Evaluated the impact of high blood pressure by comparing matched treatment and control groups.
@@ -91,4 +92,6 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 <p align="center">
   <img src="pic/PSMPoster.png" alt="PSMposter" width="100%">
 </p>
+
+---
 
