@@ -17,4 +17,4 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ## Intern, Bureau of AIDS and STIs, Department of Disease Control 
 - **Automating Hyperlink Creation for Healthcare Facilities**-The task was to create hyperlinks in an Excel worksheet containing information for more than 10,000 healthcare facilities. Since manually creating hyperlinks for each record would have been repetitive and time-consuming, I chose to develop a VBA macro to automate the process. The macro generated hyperlinks automatically, allowing users to access each healthcare facility's website directly from Excel with a single click.
 
-![vba](VBA.png)
+![VBA](VBA.png)
