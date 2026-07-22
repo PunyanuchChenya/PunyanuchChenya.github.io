@@ -24,15 +24,33 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 <p align="center">
   <img src="pic/VBA.png" alt="vba">
 </p>
+<br>
 ---
 - **Monthly Public Health Reporting**<br>
   *Objective*<br>
   Prepare monthly public health reports using data from the organization's website.<br>
   *Description*<br>
-  I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.
+  I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.<br>
   
 <p align="center">
   <img src="pic/month.jpg" alt="month">
 </p>
+<br>
 ---
+- **Medicine Usage Trend Analysis**<br>
+  *Objective*<br>
+  Analyze medicine usage data to identify trends and support monthly public health reporting.<br>
+  *Description*<br>
+  I was assigned to analyze medicine usage data using statistical methods. To identify relationships and trends within the data, I performed correlation and regression analyses. The analysis results were summarized and used to support monthly public health reports, providing information for data-driven reporting.<br>
 
+ <p align="center">
+  <img src="pic/regress1.png" alt="regress1">
+</p>
+<p align="center">
+  <img src="pic/regress2.png" alt="regress2">
+</p>
+<p align="center">
+  <img src="pic/regress3.png" alt="regress3">
+</p>
+<br>
+---
