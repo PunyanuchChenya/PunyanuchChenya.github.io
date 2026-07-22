@@ -71,7 +71,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 ---
 ## On the Comparison of Dimensionality Reduction Techniques for News Classification
 
-[![PDF](https://img.shields.io/badge/PDF-Result%20Report-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/reportproject.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Result%20Report-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/resultproject.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Paper-green?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://PunyanuchChenya.github.io/PDF/Paper.pdf)<br>
 - Participated in a team research project comparing dimensionality reduction techniques for fake news classification using Python.
 - Developed Python code for ISOMAP and Laplacian Eigenmaps.
