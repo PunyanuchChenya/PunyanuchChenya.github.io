@@ -1,1 +1,14 @@
+title: <p align="center"> Punyanuch Chenyawanich </p>
 
+logo: "/pic/MYSELF.jpg"
+
+description: |
+  <p align="center">
+    <a href="/pdf/CV.pdf">CV</a> |
+    <a href="www.linkedin.com/in/punyanuch-chenyawanich">LinkedIn</a> |
+    <a href="https://github.com/PunyanuchChenya">GitHub</a>
+  </p>
+
+  <p align="justify">
+    I am a recent Statistics graduate from the Faculty of Science with experience in applying statistical methods for data analysis and hypothesis testing.
+theme: jekyll-theme-minimal
