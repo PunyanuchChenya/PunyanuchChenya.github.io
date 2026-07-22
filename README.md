@@ -25,8 +25,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   <img src="pic/VBA.png" alt="vba">
 </p>
 <br>
----
-##
+
 - **Monthly Public Health Reporting**<br>
   *Objective*<br>
   Prepare monthly public health reports using data from the organization's website.<br>
@@ -36,8 +35,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 <p align="center">
   <img src="pic/month.jpg" alt="month">
 </p>
----
-##
+<br>
 - **Medicine Usage Trend Analysis**<br>
   *Objective*<br>
   Analyze medicine usage data to identify trends and support monthly public health reporting.<br>
