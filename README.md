@@ -47,9 +47,10 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Description*<br>
   I was assigned to analyze medicine usage data using statistical methods. To identify relationships and trends within the data, I performed correlation and regression analyses. The analysis results were summarized and used to support monthly public health reports, providing information for data-driven reporting.
 <br>
- <p align="center">
-  <img src="pic/regress1.png" alt="regress1" width="100%">
-</p>
+ <div align="center">
+  <img src="pic/regress1.png" alt="regress1" width="100%"><br>
+  Regression analysis summary output used to evaluate the statistical significance.
+</div>
 <br>
 <p align="center">
   <img src="pic/regress2.png" alt="regress2" width="100%">
