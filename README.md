@@ -26,11 +26,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
  "Excel worksheet demonstrating automatically generated hyperlinks to healthcare facility websites using a VBA."
 </div>
 <br>
-<div align="center">
-  <img src="pic/code.png" alt="vba" width="100%"><br>
- "Code VBA"
-</div>
-<br>
+
 
 - **Monthly Public Health Reporting**<br>
   *Objective*<br>
@@ -38,6 +34,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Description*<br>
   * I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.
 <br>
+[!Code](https://img.shields.io/badge/CODE-VBA-skyblue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/PunyanuchChenya.github.io/blob/main/pic/code.png)
+
 <div align="center">
   <img src="pic/month1.png" alt="month" width="100%"><br>
  "Automated Excel template designed for monthly public health data processing and reporting."
