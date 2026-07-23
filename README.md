@@ -43,11 +43,6 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
  "PowerPoint dashboard visualizing the overall Hepatitis B virus (HBV) screening results."
 </div>
 <br>
-<div align="center">
-  <img src="pic/image14.png" alt="powerpoint" width="100%"><br>
- "PowerPoint dashboard visualizing the overall Hepatitis B virus (HBV) screening results."
-</div>
-<br>
 
 - **Medicine Usage Trend Analysis**<br>
   *Objective*<br>
@@ -56,7 +51,7 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   * I was assigned to analyze medicine usage data using statistical methods. To identify relationships and trends within the data, I performed correlation and regression analyses. The analysis results were summarized and used to support monthly public health reports, providing information for data-driven reporting.
 <br>
  <div align="center">
-  <img src="pic/regress1.png" alt="regress1" width="100%"><br>
+  <img src="pic/image11.png" alt="regress1" width="100%"><br>
   "Regression analysis summary output used to evaluate the statistical significance."
 </div>
 <br>
