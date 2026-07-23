@@ -2,7 +2,7 @@
 ---
 Kasetsart University (June 2022 - March 2026)<br>
 Bachelor of Science in Statistics, Faculty of Science<br>
-Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
+Cumulative GPA: 3.19/4.00 <br>
 
 ---
 # Skills
