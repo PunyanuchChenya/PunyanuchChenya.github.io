@@ -10,6 +10,7 @@ Cumulative GPA: 3.19/4.00 <br>
 **Programming:** SQL, Python (NumPy, Pandas, PySpark)<br>
 **Tools:** Excel, Power BI, Stata, SPSS, SAS Studio, RStudio<br>
 **Data Analysis:** Data Cleaning, Statistical Analysis, Data Visualization<br>
+**Soft Skill:** Critical Thinking, Resourceful, Adaptable, Coachable, Collaborative<br>
 
 ---
 # Internship Experiance
