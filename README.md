@@ -39,7 +39,12 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 </div>
 <br>
 <div align="center">
-  <img src="pic/powerpoint.png" alt="powerpoint" width="100%"><br>
+  <img src="pic/image14.png" alt="powerpoint" width="100%"><br>
+ "PowerPoint dashboard visualizing the overall Hepatitis B virus (HBV) screening results."
+</div>
+<br>
+<div align="center">
+  <img src="pic/image14.png" alt="powerpoint" width="100%"><br>
  "PowerPoint dashboard visualizing the overall Hepatitis B virus (HBV) screening results."
 </div>
 <br>
@@ -56,12 +61,12 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
 </div>
 <br>
 <div align="center">
-  <img src="pic/regress2.png" alt="regress2" width="100%"><br>
+  <img src="pic/image12.png" alt="regress2" width="100%"><br>
  "Correlation matrix displaying the relationships between coordination levels and other variables."
 </div>
 <br>
 <div align="center">
-  <img src="pic/regress3.png" alt="regress3" width="100%"><br>
+  <img src="pic/image13.png" alt="regress3" width="100%"><br>
  "Summary of the correlation analysis results, indicating the strength and direction of relationships."
 </div>
 <br>
