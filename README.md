@@ -21,6 +21,8 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Description*<br>
   * I was assigned to create hyperlinks for healthcare facility websites in an Excel worksheet containing information for more than 10,000 healthcare facilities. Since manually creating hyperlinks for each record would have been repetitive and time-consuming, I chose to develop a VBA macro to automate the process. After running the macro, hyperlinks were automatically generated for all records, allowing users to access each healthcare facility's website directly from Excel with a single click. This reduced repetitive work and improved the efficiency of accessing healthcare facility information.
 <br>
+[!Code](https://img.shields.io/badge/CODE-VBA-skyblue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/PunyanuchChenya.github.io/blob/main/pic/code.png)
+
 <div align="center">
   <img src="pic/hyperlink.png" alt="vba" width="100%"><br>
  "Excel worksheet demonstrating automatically generated hyperlinks to healthcare facility websites using a VBA."
@@ -34,8 +36,6 @@ Cumulative GPA: 3.19/4.00 (Second-Class Honors)<br>
   *Description*<br>
   * I was responsible for preparing monthly public health reports using data from the organization's website. The reporting process required repeated calculations and chart creation every month. To improve efficiency, I designed an automated Excel template using formulas. After copying the monthly data into the template, the calculations and charts were generated automatically. The outputs were then used to prepare PowerPoint presentations, reducing repetitive work and improving the consistency of monthly reports.
 <br>
-[!Code](https://img.shields.io/badge/CODE-VBA-skyblue?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/PunyanuchChenya.github.io/blob/main/pic/code.png)
-
 <div align="center">
   <img src="pic/month1.png" alt="month" width="100%"><br>
  "Automated Excel template designed for monthly public health data processing and reporting."
